@@ -1,2 +1,2 @@
 # HTML-CSS-Tic-Tac-Toe-grid
-A simple exercise involving CSSstyling and the box model.
+A simple exercise involving CSS styling and the box model.
